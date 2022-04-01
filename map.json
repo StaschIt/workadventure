@@ -133,7 +133,7 @@
                  "value":"Press SPACE \/ touch to enter the virtual meeting"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
