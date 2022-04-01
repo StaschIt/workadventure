@@ -24,7 +24,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/do5l6q4l0e\/staschit.github.io\/workadventure\/map.json#entry-entrypoint"
+                 "value":"https:\/\/play.workadventu.re\/_\/do5l6q4l0e\/staschit.github.io\/workadventure\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
